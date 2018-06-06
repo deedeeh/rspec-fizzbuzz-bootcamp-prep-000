@@ -8,4 +8,5 @@ def fizzbuzz(input)
     print "FizzBuzz"
   else input % 3 || input % 5  != 0
     print "nil"
+  end
 end
